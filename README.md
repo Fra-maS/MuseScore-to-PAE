@@ -44,9 +44,11 @@ You should have received a copy of the GNU General Public License along with thi
 
 ## Screenshot
 Graphical user interface
+
 ![image](https://github.com/Fra-maS/MuseScore-to-PAE/blob/main/interfaccia.png)
 ![image](https://github.com/Fra-maS/MuseScore-to-PAE/blob/main/messagedialog.png)
 
 Error messages
+
 ![image](https://github.com/Fra-maS/MuseScore-to-PAE/blob/main/folder_error.png)
 ![image](https://github.com/Fra-maS/MuseScore-to-PAE/blob/main/name_error.png)

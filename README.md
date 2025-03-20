@@ -20,7 +20,7 @@ The implementation allows you to:
 
 Note that:
 - Only the first musical key of each pentagram is encoded. Any other musical keys in the score are ignored. Exporting a score consisting only of rests does not allow the identification of the musical key.
-- The natural accidental has not been encoded, because it isn't present in the TPC table
+- The natural accidental has not been encoded
 - Some duration code may not have been encoded
 - Some barline may not have been encoded
 
